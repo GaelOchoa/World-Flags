@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#rojo1{
+    height: 739px;
+    width: 33.3%;
+    background-color: red;
+}#rojo2{
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    height: 739px;
+    width: 33.3%;
+    background-color: red;
+}
+#hoja{
+    height: 300px;
+    width: 300px;
+    background-image: url('maple_leaf_034.jpg');
+    left: calc(50% - 300px/2);
+    top: calc(50% - 300px/2);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

@@ -1,0 +1,22 @@
+#rojo{
+    background-color: red;
+    right: 0px;
+    position: absolute;
+    width: 33.3%;
+    height: 739px;
+    margin: 0px;
+    padding: 0px;
+}
+#azul{
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    left: 0px;
+    position: absolute;
+    width: 33.3%;
+    height: 739px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}

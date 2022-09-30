@@ -1,0 +1,33 @@
+#aguila{
+    background-image: url('245px-Coat_of_arms_of_Mexico.svg.png');
+    margin: 0px;
+    padding: 0px;
+    top: 300px;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    left: calc(50% - (275px/2));
+    background-repeat: no-repeat;
+}
+#verde{
+    background-color: green;
+    height: 739px;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+}
+#rojo{
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+    width: 500px;
+    height: 739px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+
+}

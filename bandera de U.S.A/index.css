@@ -1,0 +1,566 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#azul{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    z-index: 1;
+}
+#estrella1{
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella2{
+    left: 70px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella3{
+    left: 140px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella4{
+    left: 210px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella5{
+    left: 280px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella6{
+    left: 350px;
+    top: 10px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella7{
+    left: 40px;
+    top: 50px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella8{
+    left: 110px;
+    top: 50px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella9{
+    left: 180px;
+    top: 50px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella10{
+    left: 250px;
+    top: 50px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella11{
+    left: 320px;
+    top: 50px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella12{
+    left: 0px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella13{
+    left: 70px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella14{
+    left: 140px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella15{
+    left: 210px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella16{
+    left: 280px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella17{
+    left: 350px;
+    top: 90px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella18{
+    left: 40px;
+    top: 130px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella19{
+    left: 110px;
+    top: 130px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella20{
+    left: 180px;
+    top: 130px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella21{
+    left: 250px;
+    top: 130px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella22{
+    left: 320px;
+    top: 130px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella23{
+    left: 0px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella24{
+    left: 70px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella25{
+    left: 140px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella26{
+    left: 210px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella27{
+    left: 280px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella28{
+    left: 350px;
+    top: 170px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella29{
+    left: 40px;
+    top: 220px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella30{
+    left: 110px;
+    top: 220px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella31{
+    left: 180px;
+    top: 220px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella32{
+    left: 250px;
+    top: 220px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella33{
+    left: 320px;
+    top: 220px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella34{
+    left: 0px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella35{
+    left: 70px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella36{
+    left: 140px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella37{
+    left: 210px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella38{
+    left: 280px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella39{
+    left: 350px;
+    top: 270px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella40{
+    left: 40px;
+    top: 320px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella41{
+    left: 110px;
+    top: 320px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella42{
+    left: 180px;
+    top: 320px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella43{
+    left: 250px;
+    top: 320px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella44{
+    left: 320px;
+    top: 320px;
+    position: absolute;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    width: 60px;
+    height: 30px;
+    z-index: 1;
+    background-color: white;
+}
+#estrella45{
+    left: 0px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella46{
+    left: 70px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella47{
+    left: 140px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella48{
+    left: 210px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella49{
+    left: 280px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#estrella50{
+    left: 350px;
+    top: 370px;
+    position: absolute;
+    background-color: white;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+    z-index: 1;
+    width: 60px;
+    height: 30px;
+}
+#linea1{
+    top: 0px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea2{
+    top: 128px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea3{
+    top: 255px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea4{
+    top: 383px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea5{
+    top: 411px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea6{
+    top: 539px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}
+#linea7{
+    top: 675px;
+    position: absolute;
+    height: 64px;
+    width: 1536px;
+    background-color: red;
+    z-index: -1;
+}

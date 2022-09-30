@@ -1,0 +1,30 @@
+#escudo{
+    left: calc(50% - (500px/2));
+    top: calc(50% - (500px/2));
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    background-size: contain ;
+    background-image: url('1892.png');
+    z-index: 1;
+    
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#rojo{
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+    height: 246.33px;
+    background-color: red;
+}
+#azul{
+    bottom: 246.34px;
+    position: absolute;
+    width: 100%;
+    height: 246.33px;
+    background-color: blue;
+}

@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#rojo{
+    background-color: red;
+    height: 739px;
+    width: 33.3%;
+    right: 0px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
+#verde{
+    background-color: green;
+    height: 739px;
+    width: 33.3%;
+    right: 0px;
+    margin: 0px;
+    padding: 0px; 
+}

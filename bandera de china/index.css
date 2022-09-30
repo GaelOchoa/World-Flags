@@ -1,0 +1,52 @@
+body{
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+}
+#estrella{
+    top: 80px;
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    background-color: yellow;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella1{
+    transform:rotate(200deg);
+    left: 190px;
+    top: 50px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella2{
+    transform:rotate(100deg);
+    top: 100px;
+    left: 250px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella3{
+    top: 170px;
+    left: 240px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella4{
+    transform: rotate(100deg);
+    top: 240px;
+    left: 220px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}

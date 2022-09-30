@@ -1,0 +1,11 @@
+#circuloRojo{
+    border-radius: 50%;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    top: 200px;
+    left: 570px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Flags</title>
+</head>
+
+<body>
+    <div id="usa" style="display:none;">
+        <div id="azul">
+            <div id="estrella1"></div>
+            <div id="estrella2"></div>
+            <div id="estrella3"></div>
+            <div id="estrella4"></div>
+            <div id="estrella5"></div>
+            <div id="estrella6"></div>
+            <div id="estrella7"></div>
+            <div id="estrella8"></div>
+            <div id="estrella9"></div>
+            <div id="estrella10"></div>
+            <div id="estrella11"></div>
+            <div id="estrella12"></div>
+            <div id="estrella13"></div>
+            <div id="estrella14"></div>
+            <div id="estrella15"></div>
+            <div id="estrella16"></div>
+            <div id="estrella17"></div>
+            <div id="estrella18"></div>
+            <div id="estrella19"></div>
+            <div id="estrella20"></div>
+            <div id="estrella21"></div>
+            <div id="estrella22"></div>
+            <div id="estrella23"></div>
+            <div id="estrella24"></div>
+            <div id="estrella25"></div>
+            <div id="estrella26"></div>
+            <div id="estrella27"></div>
+            <div id="estrella28"></div>
+            <div id="estrella29"></div>
+            <div id="estrella30"></div>
+            <div id="estrella31"></div>
+            <div id="estrella32"></div>
+            <div id="estrella33"></div>
+            <div id="estrella34"></div>
+            <div id="estrella35"></div>
+            <div id="estrella36"></div>
+            <div id="estrella37"></div>
+            <div id="estrella38"></div>
+            <div id="estrella39"></div>
+            <div id="estrella40"></div>
+            <div id="estrella41"></div>
+            <div id="estrella42"></div>
+            <div id="estrella43"></div>
+            <div id="estrella44"></div>
+            <div id="estrella45"></div>
+            <div id="estrella46"></div>
+            <div id="estrella47"></div>
+            <div id="estrella48"></div>
+            <div id="estrella49"></div>
+            <div id="estrella50"></div>
+        </div>
+        <div id="linea1"></div>
+        <div id="linea2"></div>
+        <div id="linea3"></div>
+        <div id="linea4"></div>
+        <div id="linea5"></div>
+        <div id="linea6"></div>
+        <div id="linea7"></div>
+    </div>
+    <div id="mexico" style="display: none;">
+        <div id="verde"></div>
+        <div id="aguila"></div>
+        <div id="rojo"></div>
+    </div>
+    <div id="chile" style="display: none;">
+        <div id="azul1"></div>
+        <div id="estrella51"></div>
+        <div id="rojo1"></div>
+    </div>
+    <div id="argentina" style="display: none;">
+        <div id="azul2"></div>
+        <div id="escudo"></div>
+        <div id="azul3"></div>
+    </div>
+    </div>
+    <div id="alemania" style="display: none;">
+        <div id="negro"></div>
+        <div id="rojo2"></div>
+        <div id="amarillo"></div>
+    </div>
+    <div id="alaska" style="display: none;">
+        <div id="estrella52"></div>
+        <div id="estrella53"></div>
+        <div id="estrella54"></div>
+        <div id="estrella55"></div>
+        <div id="estrella56"></div>
+        <div id="estrella57"></div>
+        <div id="estrella58"></div>
+        <div id="estrella59"></div>
+    </div>
+
+    <div id="china" style="display: none;">
+        <div id="estrella60"></div>
+        <div id="estrella61"></div>
+        <div id="estrella62"></div>
+        <div id="estrella63"></div>
+        <div id="estrella64"></div>
+    </div>
+    </div>
+
+    <div id="canada" style="display:none;">
+        <div id="rojo3"></div>
+        <div id="hoja"></div>
+        <div id="rojo4"></div>
+    </div>
+
+    <div id="francia" style="display:none;">
+        <div id="azul4"></div>
+        <div id="rojo5"></div>
+    </div>
+    <div id="italia" style="display: none;">
+        <div id="rojo6"></div>
+        <div id="verde2"></div>
+    </div>
+
+    <div id="japon" style="display: none;">
+        <div id="circuloRojo"></div>
+    </div>
+
+    <div id="rusia" style="display: none;">
+        <div id="escudo1"></div>
+        <div id="azul5"></div>
+        <div id="rojo7"></div>
+    </div>
+    <div id="tailandia" style="display: none;">
+        <div id="rojo8"></div>
+        <div id="azul6"></div>
+        <div id="rojo9"></div>
+    </div>
+    <div id="ecuador" style="display: none;">
+        <div id="amarillo1"></div>
+        <div id="azul7"></div>
+        <div id="rojo10"></div>
+        <div id="escudo2"></div>
+    </div>
+    <section id="bandera1" style="display: none;">
+        Bandera 1
+    </section>
+    <section id="bandera2" style="display: none;">
+        Bandera 2
+    </section>
+
+    <button id="mostrarBandera1">
+        Mostrar Bandera 1
+    </button>
+
+    <button id="mostrarBandera2">
+        Mostrar Bandera 2
+    </button>
+
+    <script>
+        document.getElementById("mostrarBandera1").addEventListener("click", function () {
+            var bandera1 = document.getElementById("bandera1");
+            var bandera2 = document.getElementById("bandera2");
+
+            bandera1.style.display = "";
+            bandera2.style.display = "none";
+        })
+
+        document.getElementById("mostrarBandera2").addEventListener("click", function () {
+            var bandera1 = document.getElementById("bandera1");
+            var bandera2 = document.getElementById("bandera2");
+
+            bandera1.style.display = "none";
+            bandera2.style.display = "";
+        })
+    </script>
+    <script src="index.js"></script>
+</body>
+
+</html>

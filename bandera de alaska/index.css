@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkblue;
+}
+#estrella{
+    top:100px;
+    right: 50px;
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella1{
+    left: 150px;
+    top: 200px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella2{
+    left: 250px;
+    top: 300px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella3{
+     left: 300px;
+     top: 350px;
+     position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella4{
+    left: 350px;
+    top: 400px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella5{
+    left: 300px;
+    top: 500px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella6{
+    left: 450px;
+    top: 550px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
+#estrella7{
+    left: 500px;
+    top: 500px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    clip-path: polygon(50% 5%, 57% 40%, 80% 40%, 60% 55%, 70% 90%, 50% 70%, 30% 90%, 40% 55%, 20% 40%, 43% 40%);
+}
